@@ -14,4 +14,8 @@ class Calculator {
   static int subract(int a, int b) {
     return a - b;
   }
+
+  static int multiplication(int a, int b) {
+    return a * b;
+  }
 }
