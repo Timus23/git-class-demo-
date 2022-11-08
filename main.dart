@@ -27,3 +27,8 @@ class Calculator {
 bool checkPalindrome() {
   return true;
 }
+class MathUtils {
+  static bool checkEven() {
+    return true;
+  }
+}
