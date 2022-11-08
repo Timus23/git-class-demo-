@@ -10,4 +10,8 @@ class Calculator {
   static int add(int a, int b) {
     return a + b;
   }
+
+  static int subract(int a, int b) {
+    return a - b;
+  }
 }
