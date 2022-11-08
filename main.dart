@@ -18,4 +18,8 @@ class Calculator {
   static int multiplication(int a, int b) {
     return a * b;
   }
+
+  static double divide(int a, int b) {
+    return a / b;
+  }
 }
