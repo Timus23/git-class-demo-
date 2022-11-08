@@ -23,3 +23,7 @@ class Calculator {
     return a / b;
   }
 }
+
+bool checkPalindrome() {
+  return true;
+}
